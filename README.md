@@ -1,6 +1,6 @@
 # Hack the North Project
 
-Project Name: wheresmybus
+Project Name: wheresmybus --> 
 Devpost Link:https://devpost.com/software/wheresmybus
 
 Description: 
